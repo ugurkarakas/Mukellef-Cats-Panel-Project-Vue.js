@@ -1,4 +1,4 @@
-# mukellef
+# Mukellef Task
 
 ## Project setup
 ```
@@ -10,15 +10,22 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### To get the json-server up
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run db-serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Registered user information
+```
+mail: info@mukellef.co
+password: 123
+```
+
+### Transactions
+```
+The project includes register, login, panel and 404 pages. 
+There is authorization in the system. Non-member users cannot access the panel.
+An animation runs every time the cat images are changed. 🐈
+saved data is stored in json-server.
+In state management, vuex is used.
+```
