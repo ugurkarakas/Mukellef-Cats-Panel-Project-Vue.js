@@ -1,46 +1,10 @@
 {
   "user": [
     {
-      "username": "ugur",
-      "mail": "ugur34_74@icloud.com",
+      "username": "mukellef",
+      "mail": "info@mukellef.com",
       "password": "edda65420bdd9f9b12da4684b29f1e8a66142ee0",
-      "id": 6
-    },
-    {
-      "username": "ugur",
-      "mail": "ugur@hotmail.com",
-      "password": "edda65420bdd9f9b12da4684b29f1e8a66142ee0",
-      "id": 7
-    },
-    {
-      "username": "ugur",
-      "mail": "12345",
-      "password": "4a34a5fdaa272a0de12871bc84557e9971ceebf3",
-      "id": 8
-    },
-    {
-      "username": "sd",
-      "mail": "sd",
-      "password": "6e9ce2a175ce94d73513cdedd144949e0606e30a",
-      "id": 9
-    },
-    {
-      "username": "sd",
-      "mail": "sd",
-      "password": "6e9ce2a175ce94d73513cdedd144949e0606e30a",
-      "id": 10
-    },
-    {
-      "username": "emine",
-      "mail": "emine@hotmail.com",
-      "password": "edda65420bdd9f9b12da4684b29f1e8a66142ee0",
-      "id": 11
-    },
-    {
-      "username": "muhammet",
-      "mail": "muhammet@hotmail.com",
-      "password": "4a34a5fdaa272a0de12871bc84557e9971ceebf3",
-      "id": 12
+      "id": 1
     }
   ]
 }

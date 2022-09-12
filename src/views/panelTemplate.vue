@@ -32,7 +32,7 @@ export default {
         catImg.classList.toggle('fade');
         setTimeout(() => {
             catImg.classList.toggle('fade');
-        }, 1000);
+        }, 1500);
     }
   },
   computed :{
